@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**
+- 🎓 Desarrollador web fullstack 
 - 🏢 Actualmente en prácticas en **SendingBay**
 - 💻 Experiencia en **Angular, React, Java y PHP** y bases de datos SQL
 - 🔧 Control de versiones con **Git** y trabajo colaborativo en **GitHub**
