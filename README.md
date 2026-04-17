@@ -45,16 +45,16 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisRG18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRG18&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuissRG18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuissRG18&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisRG18&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuissRG18&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisRG18&theme=tokyo-night&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuissRG18&theme=tokyo-night&hide_border=true" width="90%" />
 </p>
 
 ---
@@ -63,25 +63,25 @@
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🔗 [Tienda Angular](https://github.com/LuisRG18/tienda-angular) | E-commerce desarrollado con Angular | Angular, TypeScript, CSS |
-| 🔗 [Piedra Papel Tijera](https://github.com/LuisRG18/piedra-papel-tijera) | Juego clásico con interfaz moderna | HTML, CSS, JavaScript |
+| 🔗 [Tienda Angular](https://github.com/LuissRG18/tienda-angular) | E-commerce desarrollado con Angular | Angular, TypeScript, CSS |
+| 🔗 [Piedra Papel Tijera](https://github.com/LuissRG18/piedra-papel-tijera) | Juego clásico con interfaz moderna | HTML, CSS, JavaScript |
 
-> 📌 *Más proyectos en mis [repositorios](https://github.com/LuisRG18?tab=repositories)*
+> 📌 *Más proyectos en mis [repositorios](https://github.com/LuissRG18?tab=repositories)*
 
 ---
 
 ## 📫 Contacto
 
 <p align="center">
-  <a href="https://github.com/LuisRG18">
-    <img src="https://img.shields.io/badge/GitHub-LuisRG18-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/LuissRG18">
+    <img src="https://img.shields.io/badge/GitHub-LuissRG18-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuisRG18&color=58a6ff&style=flat-square&label=Visitas+al+perfil" />
+  <img src="https://komarev.com/ghpvc/?username=LuissRG18&color=58a6ff&style=flat-square&label=Visitas+al+perfil" />
 </p>
 
 <p align="center">⭐ <i>Si te gusta algún proyecto, no dudes en dejar una estrella</i> ⭐</p>
