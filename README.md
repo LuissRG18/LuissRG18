@@ -65,6 +65,7 @@
 |----------|-------------|-------------|
 | 🔗 [Tienda Angular](https://github.com/LuissRG18/tienda-angular) | E-commerce desarrollado con Angular | Angular, TypeScript, CSS |
 | 🔗 [Piedra Papel Tijera](https://github.com/LuissRG18/piedra-papel-tijera) | Juego clásico con interfaz moderna | HTML, CSS, JavaScript |
+| 🔗 [MisTareas](https://github.com/LuissRG18/MisTareas) | Gestión de tareas | Python |
 
 > 📌 *Más proyectos en mis [repositorios](https://github.com/LuissRG18?tab=repositories)*
 
